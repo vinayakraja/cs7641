@@ -3,6 +3,8 @@ gatech user_name: vraja30
 
 Data sources:
 
+Folder location: https://github.com/vinayakraja/cs7641/tree/main/assignment-1
+
 Data 1: Customer propensity to purchase dataset
 
 This data set represents a day's worth of visit to a fictional website. Each row represents a unique customer, identified by their unique UserID. The columns represent feature of the users visit (such as the device they were using) and things the user did on the website in that day. These features will be different for every website, but in this data a few of the features we consider are:
@@ -37,10 +39,11 @@ Jupyter-notebooks:
 
 **All results and analysis already saved as cell output in these notebooks.
 
-Repository link: 
+Repository link: https://github.com/vinayakraja/cs7641.git
+
 
 How to run:
-1. Clone repository from github
+1. Clone repository from github : https://github.com/vinayakraja/cs7641.git
 2. I have added all dependencies in requirements.txt and added this in 'pip3 install -r requirements.txt' in notebook
 3. open Jupyter notebook in Python 3.7 enviornmnet:
      1. In order to re-create everything end to end click on CELLS and clink Run All ( this will take time as we do HP tnining for various algos) 
